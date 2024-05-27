@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* -------------------------------------section 2-------------------------------- */
+.sec2{
+    background-color: #f1f1f1;
+}
+.s2c1l1{
+    padding-top: 18%;
+    font-size: 50px;
+}
+/* -------------------------------------section 4-------------------------------- */
+.s4r1{
+    font-size: 30px;
+    font-weight: 600;
+    color: #F0CF15;
+    text-shadow: 1px 1px #1B1B1B;
+}
+.s4rlp{
+    margin-left: 40px;
+}
+
+.s4r1c1{
+    margin: 25px;
+    background-color: #f1f1f1;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+/* -------------------------------------section 5-------------------------------- */
+.sec5{
+    margin-left: 196px;
+}
+.sec5bg{
+    background-image: url(images/b1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* -------------------------------------section 6-------------------------------- */
+.s6rlp{
+    margin-left: 40px;
+}
+.s6r1c1{
+    margin: 25px;
+    background-color: #f1f1f1;
+    border: 1px solid grey;
+}
+
+/* -------------------------------------section 9-------------------------------- */
+.sec9{
+    padding-left: 130px;
+}
+.sec9 h2{
+    font-weight: 800;
+}
+/* ----------------------------------section 10---------------------------------- */
+.sec10{
+    background-color: #1B1B1B;
+}
+
+.sec10 ul li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.sec10 ul li a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.sec10 ul li a i{
+    font-size: 10px;
+    margin-right: 10px;
+}
+.s10c4{
+    background-color: grey;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 9px;
+    text-align: center;
+}
+.s10c4:hover{
+    background-color: #F0CF15;
+}
+
+.s10lp{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
